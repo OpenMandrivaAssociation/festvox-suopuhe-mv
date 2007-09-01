@@ -1,7 +1,7 @@
 
 %define name	festvox-suopuhe-mv
 %define version	20041119
-%define rel	1
+%define rel	2
 %define release	%mkrel %rel
 
 Summary:	Festival Voice - Finnish male speaker (hy_fi_mv)
