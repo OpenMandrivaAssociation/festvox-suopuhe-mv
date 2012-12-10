@@ -47,3 +47,29 @@ rm -rf %{buildroot}
 %doc lib/voices/finnish/hy_fi_mv_diphone/README.mv
 %{_datadir}/festival/voices/finnish/hy_fi_mv_diphone
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 20041119-4mdv2011.0
++ Revision: 618276
+- the mass rebuild of 2010.0 packages
+
+* Thu Sep 03 2009 Thierry Vignaud <tv@mandriva.org> 20041119-3mdv2010.0
++ Revision: 428717
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 20041119-2mdv2009.0
++ Revision: 136415
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+* Sat Sep 01 2007 Anssi Hannula <anssi@mandriva.org> 20041119-2mdv2008.0
++ Revision: 77424
+- rebuild
+
+
+* Sun Aug 06 2006 Anssi Hannula <anssi@mandriva.org> 20041119-1mdv2007.0
+- initial Mandriva release
+
