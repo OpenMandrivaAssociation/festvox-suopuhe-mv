@@ -10,7 +10,7 @@ Version:	%version
 Release:	%release
 License:	LGPL
 Group:		Sound
-URL:		http://phon.joensuu.fi/suopuhe/
+URL:		https://phon.joensuu.fi/suopuhe/
 Source:		http://phon.joensuu.fi/suopuhe/tulosaineisto/hy_fi_mv_diphone-%version.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildArch:	noarch
